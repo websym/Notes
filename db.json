@@ -1,0 +1,17 @@
+{
+    "notes": [
+        {
+            "id":1,
+            "title":"My fisrt notes",
+            "body":"Tis is my first notes",
+            "important":true
+        },
+        {
+            "id":2,
+            "title":"My second notes",
+            "body":"Tis is my second notes",
+            "important":false
+        }
+    ]
+
+}
